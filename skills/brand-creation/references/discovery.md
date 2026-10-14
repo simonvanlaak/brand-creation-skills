@@ -30,7 +30,22 @@ Separate three questions: **What do we stand for? Why might someone choose us? H
 
 Translate adjectives into behaviour and examples. Include voice from the start: the same message in fitting and unfitting language; different tone for celebration, failure and explanation. If naming is needed, explore territories after enough brief clarity, then screen meaning, pronunciation and availability. A domain search is not trademark clearance.
 
-**Output/gate:** one-page brief accepted by the owner; uncertainties and decisions that could reopen it recorded.
+### Converge into a spoken introduction
+
+Once the foundations are supported, optionally compress them into **five sentences or fewer** using **Vision → Gratitude → Profile → Service**. Use the [brief worksheet](../templates/04-brief-and-directions.md). This is a short expression of the brief, not a replacement for its audience, evidence, exclusions or constraints.
+
+- **Vision:** What future do you want to help create? Name a concrete change, not a grand claim to transform everything. Phrase aspiration as aspiration, not accomplishment.
+- **Gratitude:** What are you genuinely glad to work on, learn or do with others now? Ask rather than inventing gratitude; use natural language rather than compulsory thankfulness.
+- **Profile:** What do you actually do that connects to that future? Prefer a specific practice or contribution over a chronological CV or title stack.
+- **Service:** How can the other person join the conversation? Offer a relevant way to help or a genuine question, not an automatic sales pitch or an unsupported promise.
+
+Default to one sentence per move, with an optional fifth only if it adds needed context. Ask where the introduction will be used; a social introduction need not become a business pitch. Draft from existing evidence, mark inferred aspirations or feelings for confirmation, and keep personal examples private until separately approved for publication.
+
+Read it aloud. Check that a listener can tell what future matters, what the person actually does, and how to respond. If it could introduce almost anyone, sharpen the concrete change and present work rather than adding flattering adjectives. Approve the wording separately from the wider brand system.
+
+Source: the four-part method is adapted from a user-supplied summary of an [Instagram reel](https://www.instagram.com/reel/DedVtVnP8hx/); the reel audio and creator attribution have not been independently verified. These prompts are our adaptation, not a transcript or a validated branding instrument.
+
+**Output/gate:** one-page brief accepted by the owner; uncertainties and decisions that could reopen it recorded. If this exercise is used, retain a separately approved introduction of five sentences or fewer.
 
 
 Return to [the entry point](../SKILL.md) to record state and choose the next stage.

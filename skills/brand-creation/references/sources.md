@@ -13,6 +13,10 @@ This package synthesizes general methods in original wording. Source links are r
 - [NN/g: Microsoft Desirability Toolkit](https://www.nngroup.com/articles/microsoft-desirability-toolkit/): balanced reaction vocabulary and interpretation. We do not reproduce the original toolkit or claim its original paper/rights were independently verified.
 - [Ehrenberg-Bass: Brands of Distinction](https://marketingscience.info/news-and-insights/brands-of-distinction): learned associations, uniqueness and consistency. New assets need exposure; visual novelty is not established recognition.
 
+## Additional conversational method: source not independently verified
+
+[Instagram reel DedVtVnP8hx](https://www.instagram.com/reel/DedVtVnP8hx/): a user-supplied summary describes **Vision → Gratitude → Profile → Service**, with a future-first rather than CV-first introduction. The reel audio, exact wording and creator attribution have not been independently verified. The brief worksheet adapts that supplied structure into original prompts; it does not reproduce a transcript, claim authorship of the method, or assert empirical validation.
+
 ## Empirical findings, with boundaries
 
 - [Sio, Kotovsky & Cagan (2015)](https://doi.org/10.1016/j.destud.2015.04.004): design examples can support novelty while narrowing categories explored. References can inspire and fixate simultaneously.
